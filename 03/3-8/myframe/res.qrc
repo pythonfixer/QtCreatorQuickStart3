@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>donghua.gif</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>
